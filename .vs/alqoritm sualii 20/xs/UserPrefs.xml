@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{6285DDA5-7D91-41A7-B466-EBF413A42EEE}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.alqoritm_220sualii_22020 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="alqoritm sualii 20/Program.cs">
+    <Files>
+      <File FileName="alqoritm sualii 20/Program.cs" Line="30" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="alqoritm sualii 20" expanded="True">
+            <Node name="alqoritm sualii 20" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

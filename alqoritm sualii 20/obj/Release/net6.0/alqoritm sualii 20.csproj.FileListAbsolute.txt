@@ -1,0 +1,15 @@
+/Users/ali/Projects/alqoritm sualii 20/alqoritm sualii 20/bin/Release/net6.0/alqoritm sualii 20
+/Users/ali/Projects/alqoritm sualii 20/alqoritm sualii 20/bin/Release/net6.0/alqoritm sualii 20.deps.json
+/Users/ali/Projects/alqoritm sualii 20/alqoritm sualii 20/bin/Release/net6.0/alqoritm sualii 20.runtimeconfig.json
+/Users/ali/Projects/alqoritm sualii 20/alqoritm sualii 20/bin/Release/net6.0/alqoritm sualii 20.dll
+/Users/ali/Projects/alqoritm sualii 20/alqoritm sualii 20/bin/Release/net6.0/alqoritm sualii 20.pdb
+/Users/ali/Projects/alqoritm sualii 20/alqoritm sualii 20/obj/Release/net6.0/alqoritm sualii 20.csproj.AssemblyReference.cache
+/Users/ali/Projects/alqoritm sualii 20/alqoritm sualii 20/obj/Release/net6.0/alqoritm sualii 20.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ali/Projects/alqoritm sualii 20/alqoritm sualii 20/obj/Release/net6.0/alqoritm sualii 20.AssemblyInfoInputs.cache
+/Users/ali/Projects/alqoritm sualii 20/alqoritm sualii 20/obj/Release/net6.0/alqoritm sualii 20.AssemblyInfo.cs
+/Users/ali/Projects/alqoritm sualii 20/alqoritm sualii 20/obj/Release/net6.0/alqoritm sualii 20.csproj.CoreCompileInputs.cache
+/Users/ali/Projects/alqoritm sualii 20/alqoritm sualii 20/obj/Release/net6.0/alqoritm sualii 20.dll
+/Users/ali/Projects/alqoritm sualii 20/alqoritm sualii 20/obj/Release/net6.0/refint/alqoritm sualii 20.dll
+/Users/ali/Projects/alqoritm sualii 20/alqoritm sualii 20/obj/Release/net6.0/alqoritm sualii 20.pdb
+/Users/ali/Projects/alqoritm sualii 20/alqoritm sualii 20/obj/Release/net6.0/alqoritm sualii 20.genruntimeconfig.cache
+/Users/ali/Projects/alqoritm sualii 20/alqoritm sualii 20/obj/Release/net6.0/ref/alqoritm sualii 20.dll
